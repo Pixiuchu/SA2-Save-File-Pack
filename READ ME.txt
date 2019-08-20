@@ -1,0 +1,56 @@
+﻿(Readme written in Consolas on notepad)
+Save file package v0.1
+
+~==========================~
+ABOUT THIS SAVE FILE PACKAGE
+~==========================~
+This save file package has all the save files you could possibly want (I hope). This readme contains information about all the save files in here. So far, this package includes:
+
+
+- Save file editor ***MADE BY Froody*** (You can find the editor here: https://gamebanana.com/tools/6640)
+
+- Save files before each Hero Story levels/bosses
+
+- Save files that has 99 lives, gotten legitimately.
+	- Hero Story's lives were gotten through Dark Story's Security Hall M2 99 lives setup
+
+- A clean 180 Emblem savefile, which has all level times set to 30:00.00 with all ranks being A, scores and rings set to 0.
+	- Note to self: test setting ranks to BLANK
+
+- A 180 Emblem save file that has all level times set to their respective IL world record, along with a list of level times with the respective WR holder in "IL World Records.txt"
+	- Note: DC-exclusive world records are mostly not included (MHm3, MHm5, (wip) are set to their PC WRs)
+	- So far only Hero Story done
+
+- ESG save file (by Dage4 in speedrun.com resources)
+
+- 180 Emblems route, tweaked (credits to SurprisingPony), mostly for convenience sake.
+
+
+
+~=========================================~
+SAVE FILES THAT WILL EVENTUALLY BE INCLUDED
+~=========================================~
+- Save file editor ***MADE BY Froody*** (You can find the editor here: https://gamebanana.com/tools/6640)
+
+- Save files before each Hero Story, Dark Story and Last Story levels/bosses (Last Story as if it's an All Stories run)
+
+- Save files that has 99 lives, gotten legitimately.
+	- Hero Story's lives were gotten through Dark Story's Security Hall M2 99 lives setup
+	- Dark Story's lives were gotten through playing Hero Story, no glitches involved
+	- Last Story's lives were gotten through Dark Story's Security Hall M2 99 lives setup
+
+- A clean 180 Emblem savefile, which has all level times set to 30:00.00 with all ranks being A, scores and rings set to 0.
+	- Note to self: test setting ranks to BLANK
+
+- A 180 Emblem save file that has all level times set to their respective IL world record, along with a list of level times with the respective WR holder in "IL World Records.txt"
+	- Note: DC-exclusive world records are mostly not included (MHm3, MHm5, (wip) are set to their PC WRs)
+
+- Clean Chao save (just delete the current chao save and enter the Chao World, and there you go lol)
+
+- A Chao save that has the chao you would have in a 180 Emblems speedrun
+
+- A couple save files for 180 Emblems
+	- Save files before each level, Talon's route, and (...?)
+
+
+(Read me is still kinda wip sorry)

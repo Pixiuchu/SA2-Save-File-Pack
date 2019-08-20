@@ -1,0 +1,295 @@
+ORIGINALLY BY SurprisingPony
+You can find the original file here: https://pastebin.com/zKW9nvUj
+This is a slightly tweaked version.
+Edits that have been made:
+	* Added Wild Canyon M1
+	* Added extra info on City Escape M4 and Crazy Gadget M4 and M5
+	* Added a link to a video for animal locations
+	* Added more info on animal uses
+	* Added Cannon's Core M2 first time around
+	* Added information on Cannon's Core M2
+	* Changed "don't die" in the Boss Attacks to "finish", as you 
+	  simply need to finish and dying does not matter whether you get
+	  the Emblem or not, and this could cause confusion.
+
+=========================================================
+Sonic Adventure 2 Battle 180 Emblem Route (and point requirement)
+
+---------------------------------------------------------
+           			180 Emblem Route
+---------------------------------------------------------
+Level	      Mission      Requirement		Extras
+---------------------------------------------------------
+
+                      Trigger ESG
+
+If you want or need more Information about ESG, please look 
+at this FAQ created by Talon2461:
+
+              https://pastebin.com/PmwPLYjs
+
+---------------------------------------------------------
+                        Dark Story                       
+---------------------------------------------------------
+Iron Gate	 	M1	 20.000 points     n/a
+Dry Lagoon	 	M1	 15.000 points     n/a
+Sand Ocean 	 	M1	 25.000 points     n/a
+Radical Highway 	M1   	 14.000 points     n/a
+Egg Quarters 		M1	 12.000 points     Pick Nails
+Lost Colony		M1	 34.000 points     Jet Blast
+Weapons Bed		M1	 30.000 points     Large Cannon
+Security Hall 		M1	 12.000 points     n/a
+White Jungle    	M1	 14.000 points     Air Shoes
+Route 280 		M1	 be under 3:20     n/a
+Sky Rail 		M1	 14.000 points     n/a
+Mad Space 		M1	 14.000 points     Iron Boots
+Cosmic Wall 		M1	 80.000 points     n/a
+Final Chase 		M1	 12.000 points     Mystic Melody
+
+---------------------------------------------------------
+                       Hero Story
+---------------------------------------------------------
+
+City Escape	 	M1 	 18.000 points     n/a
+Wild Canyon		M1	 16.000 points	   n/a
+Prison Lane 		M1	 26.000 points     n/a
+Metal Harbor	 	M1 	 20.000 points     Light Shoes
+Green Forest	 	M1	 15.000 points     n/a
+
+    	     Enter Chao garden (break 1 egg)
+
+Pumpkin Hill 	 	M1	 12.000 points     Shovel Claw
+Mission Street   	M1	 25.000 points     Booster
+Aquatic Mine 	 	M1	 14.000 points     n/a
+Route 101	 	M1	 be under 2:45     n/a
+Hidden Base 	 	M1	 14.000 points     n/a
+Pyramid Cave	 	M1 	 15.000 points     Bounce Bracelet
+Death Chamber 	 	M1	 12.000 points     Hammer Gloves
+Eternal Engine   	M1	 35.000 points     Bazooka
+Meteor Herd 	 	M1	 13.000 points     Sunglasses
+Crazy Gadget 	 	M1	 17.000 points     Flame Ring
+Final Rush 	 	M1	 13.000 points     n/a
+
+
+---------------------------------------------------------
+                       Hard Missions
+---------------------------------------------------------
+
+City Escape	 	M2	 be under 1:20     n/a
+City Escape 	 	M3 	 be under 2:30     n/a
+City Escape 		M4 	 18.000 points     Magic Hands <-- This ONLY if you are going for Crazy Gadget Skip with A rank. 
+
+Crazy Gadget		M2	 be under 3:00     n/a
+Crazy Gadget		M3	 be under 5:00     n/a 
+Crazy Gadget 		M4	 16.000 points     Hard if you go for CGS. Otherwise this is not a hard mission.
+Crazy Gadget		M5	 15.000 points     Hard if you go for CGS. Otherwise this is not a hard mission.
+
+Final Chase	 	M2	 be under 1:30     n/a
+Final Chase 	 	M3	 be under 5:15     n/a
+Final Chase	 	M4	 11.000 points     n/a
+Final Chase	 	M5	 10.000 points     n/a
+
+Route 280	 	M2	 be under 2:00     n/a
+Route 280	 	M3	 be under 3:30     n/a
+Route 280		M4	 be under 3:45     n/a
+
+Hidden Base	 	M2	 be under 3:15     Mystic Melody
+
+Eternal Engine 	 	M2	 be under 3:30     n/a
+Eternal Engine	 	M3	 be under 2:45     n/a
+Eternal Engine	 	M4	 30.000 points     11 whistles
+Eternal Engine	 	M5	 35.000 points     10 whistles
+
+---------------------------------------------------------
+                       Speed Missions
+---------------------------------------------------------
+
+Metal Harbor 	 	M2	 be under 1:10     n/a
+Green Forest 	 	M2	 be under 2:30     n/a
+Pyramid Cave 	 	M2	 be under 3:15     n/a
+Final Rush	 	M2	 be under 1:30     n/a
+
+Metal Harbor 		M3	 be under 1:10     n/a
+Green Forest 	 	M3	 be under 1:30     n/a
+Pyramid Cave 		M3	 be under 2:50     n/a
+Final Rush	 	M3	 be under 4:30     n/a
+
+Metal Harbor 		M4	 18.000 points     n/a
+Green Forest    	M4	 12.000 points     n/a
+Pyramid Cave		M4	 13.000 points     n/a
+Final Rush		M4	 13.000 points     n/a
+
+City Escape 	 	M5 	 19.000 points     n/a
+Metal Harbor 	 	M5	 18.000 points     n/a
+Final Rush	 	M5	 13.000 points     n/a
+Pyramid Cave 	 	M5	 14.000 points     n/a
+
+Radical Highway	 	M2	 be under 1:20     Flame Ring 
+White Jungle	 	M2	 be under 1:30     n/a
+Sky Rail	 	M2	 be under 1:15     n/a
+
+Radical Highway	 	M3	 be under 2:30     n/a
+White Jungle	 	M3	 be under 3:20     n/a
+Sky Rail 	 	M3	 be under 1:10     n/a
+
+Radical Highway	 	M4	 14.000 points     n/a
+White Jungle		M4	 14.000 points     n/a
+Sky Rail	 	M4	 14.000 points     n/a
+
+Radical Highway	 	M5	 16.000 points     n/a
+White Jungle		M5	 13.000 points     n/a
+Sky Rail		M5	 10.000 points     n/a
+
+---------------------------------------------------------
+                       Mech Missions
+---------------------------------------------------------
+
+Iron Gate 	 	M2	 be under 1:35     Laser Blaster 
+
+Sand Ocean 	 	M2	 be under 3:30     Mystic Melody
+Sand Ocean	 	M3	 be under 3:00     n/a
+Sand Ocean	 	M4	 25.000 points     n/a
+Sand Ocean	 	M5	 23.000 points     n/a
+
+Lost Colony	 	M2	 be under 2:00     n/a
+Weapons Bed	 	M2	 be under 2:00     n/a
+Cosmic Wall	 	M2	 be under 1:30     n/a
+
+Iron Gate 	 	M3	 be under 2:00     n/a
+Lost Colony	 	M3	 be under 2:30     n/a
+Weapons Bed	 	M3	 be under 2:15     n/a
+Cosmic Wall	 	M3	 be under 1:30     n/a
+
+Iron Gate 	 	M4	 20.000 points	   n/a
+Lost Colony	 	M4	 34.000 points     n/a
+Weapons Bed	 	M4	 30.000 points     n/a
+Cosmic Wall	 	M4	 75.000 points     n/a
+
+Iron Gate	 	M5	 19.000 points     n/a
+Lost Colony	 	M5	 44.000 points     n/a
+Weapons Bed	 	M5	 30.000 points     n/a
+Cosmic Walls	 	M5	 100.000 points     n/a
+
+Prison Lane	 	M2	 be under 2:30     n/a
+Prison Lane	 	M3	 be under 2:00     n/a
+Prison Lane 		M4	 26.000 points     n/a
+Prison Lane	 	M5	 26.000 points     n/a
+
+Mission Street	 	M2	 be under 3:30     n/a
+Mission Street	 	M3	 be under 3:20     n/a
+Mission Street	 	M4	 22.000 points     n/a
+Mission Street	 	M5	 30.000 points     n/a
+
+Route 101	 	M2	 be under 1:30     n/a
+
+Hidden Base	 	M3	 be under 2:50     n/a
+Hidden Base	 	M4	 12.000 points     n/a
+Hidden Base	 	M5	 13.000 points     n/a
+
+---------------------------------------------------------
+                      Hunting Missions
+---------------------------------------------------------
+
+Wild Canyon	 	M2	 be under 1:30     Mystic Melody
+Pumpkin Hill		M2	 be under 3:00     n/a
+Aquatic Mine	 	M2	 be under 1:50     n/a
+Death Chamber 	 	M2	 be under 2:30     n/a
+Meteor Herd	 	M2	 be under 2:00     n/a
+
+Wild Canyon	 	M3 	 be under 0:40     n/a
+Pumpkin Hill	 	M3	 be under 1:00     n/a
+Aquatic Mine	 	M3	 be under 1:00     n/a
+Death Chamber	 	M3	 be under 2:00     n/a
+Meteor Herd 		M3	 be under 1:30     n/a
+
+Wild Canyon	 	M4	 16.000 points     n/a
+Pumpkin Hill	 	M4	 13.000 points     n/a
+Aquatic Mine	 	M4 	 14.000 points     n/a
+Death Chamber		M4 	 12.000 points     n/a
+Meteor Herd 	 	M4	 14.000 points     n/a
+
+Wild Canyon	 	M5	 17.000 points     n/a
+Pumpkin Hill	 	M5	 16.000 points     n/a
+Aquatic Mine 	 	M5	 15.000 points     n/a
+Death Chamber	 	M5	 12.000 points     n/a
+Meteor Herd	 	M5	 13.000 points     n/a
+
+Dry Lagoon	 	M2	 be under 2:00     Mystic Melody
+Egg Quarters	 	M2	 be under 2:00     n/a
+Security Hall	 	M2	 be under 4:00     Treasure Scope
+Mad Space	 	M2	 be under 2:30     n/a
+
+Dry Lagoon	 	M3	 be under 0:40     n/a
+Egg Quarters		M3	 be under 1:00     n/a
+Security Hall	 	M3	 be under 0:30     n/a
+Mad Space	 	M3	 be under 1:30     n/a
+	
+Dry Lagoon		M4	 14.000 points     n/a
+Egg Quarters		M4	 13.000 points     n/a
+Security Hall	 	M4	 13.000 points     n/a
+Mad Space	 	M4	 14.000 points     n/a
+
+Dry Lagoon	 	M5	 17.000 points     n/a
+Egg Quarters	 	M5	 13.000 points     n/a
+Security Hall	 	M5	 16.000 points     n/a
+Route 280 	 	M5	 be under 3:20     n/a
+Mad Space	 	M5	 12.000 points     n/a
+
+---------------------------------------------------------
+                        Chao Fun
+---------------------------------------------------------
+
+                    Its Reload Time
+
+In theory you only need to grab 1 animal, however for run
+safety and consistency its highly adviced to grab at least 2
+
+Green Forest	 	M5	 12.000 points		2 half fish	
+Aquatic Mine*	    	M1	 n/a			3 condor
+Pumpkin Hill	 	M1 	 n/a			3 skeleton dogs
+
+*Optimally you would use Eternal Engine, however the time
+difference is minimal so its up to runners choice
+   video of animal locations: https://www.youtube.com/watch?v=KfZ_H85K1nU
+
+	Buy Chao Egg and as much (cheap) Fruits as possible
+
+                      Chao Evolution!
+	    Feed with 129 Condors (until Fly is 77)
+         Feed with 269 Skeleton Dog (until Fly is 99)
+	  Feed with 162 half fish (until rest is 99)
+
+For more Information please use this Guide created by Talon2461  
+		https://pastebin.com/rZ240cbL
+
+                        Chao Karate
+                        Chao Races
+
+---------------------------------------------------------
+                      Last Story
+---------------------------------------------------------
+
+Cannon's Core	 	M1	29.000 points     n/a
+Cannon's Core		M2	be under 3:30	  Finish at either Eggman or Rouge (Rouge is more optimal)
+Route 101	 	M3	be under 3:00     WW to CC 
+Cannon's Core	 	M3	be under 7:30     n/a
+Cannon's Core	 	M2	be under 3:30     Finish at either Eggman or Rouge (Rouge is more optimal)
+Route 101	 	M4	be under 3:00     WW (284 rings)
+Cannon's Core	 	M4	29.000 points	  all rings due to WW
+Cannon's Core	 	M2	be under 3:30     Finish at either Eggman or Rouge (Rouge is more optimal)
+Route 101	 	M5	be under 2:50     WW (261 rings)
+Cannon's Core	 	M5	29.000 points     all rings due to WW
+
+---------------------------------------------------------
+                      Last Emblems
+---------------------------------------------------------
+
+KART RACING	 	n/a   get first	  use shadows extra
+Hero Bosses	 	n/a   finish	  n/a
+Dark Bosses	 	n/a   finish	  n/a
+All Bosses	 	n/a   finish	  n/a
+
+
+Special thanks to Talon for writing the Chao Section 
+and ESG explanation aswell as Tommyeasy for double checking 
+and correcting me on the parts I got wrong
